@@ -97,12 +97,12 @@ export const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   swatch: {
-   width: 30,
-   height: 30,
-   borderRadius: 5,
-   marginHorizontal: 5,
-   borderStyle: 'solid',
-   borderWidth: 1,
+    width: 30,
+    height: 30,
+    borderRadius: 5,
+    marginHorizontal: 5,
+    borderStyle: 'solid',
+    borderWidth: 1,
   },
 
   // Preview
